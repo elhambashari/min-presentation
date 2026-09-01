@@ -1,0 +1,7 @@
+Idag har jag varit i hemma.
+Jag har arbetat med Git och GitHub.
+Jag har lärt mig hur man skapar en ny branch.
+Jag har också lärt mig mer om commit och push.
+Det var lite svårt i början, men det blir lättare när jag övar.
+Jag tycker att Git är intressant och användbart.
+Jag hoppas att jag snart känner mig säkrare på Git och GitHub.
